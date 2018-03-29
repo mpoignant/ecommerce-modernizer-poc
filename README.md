@@ -22,5 +22,6 @@ An example of clean architecture for an API, based on Spring Boot and Swagger
 
 ## Links
 
-http://localhost:8080/v2/api-docs
+API documentation :
 http://localhost:8080/swagger-ui.html
+http://localhost:8080/v2/api-docs
